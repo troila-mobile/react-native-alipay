@@ -28,7 +28,7 @@
     "react-native": "^0.20.0"
   },
   "dependencies": {
-    "buffer": "^5.0.8",
+    "buffer": "5.0.8",
     "jsrsasign": "^8.0.4"
   }
 }
